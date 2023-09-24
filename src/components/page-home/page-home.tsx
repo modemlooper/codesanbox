@@ -57,7 +57,7 @@ export class PageHome {
                 <ion-radio value="md">Material Design</ion-radio>
               </ion-item>
               <ion-item>
-                <ion-radio value="ios">iOS</ion-radio>
+                <ion-radio value="ios">iOS Design</ion-radio>
               </ion-item>
             </ion-radio-group>
           </ion-list>
